@@ -1,0 +1,9 @@
+* fad874e (HEAD -> main) Create a new list output
+* a58dba5 Add the find output from the first exercise
+* ed184cd (nueva_rama) Copying the "tercero" as a "cuarto"
+* e78b87b Not so sure it this was asked for, but retrieving a folder from the first exercise
+* 569d06e Add new line of text to "tercero"
+* 26f7391 Retrieving the third file
+* 93ea634 Create an empty file
+* bae1b46 Add the files "primero" and "segundo" from the first exercise.
+* 5dacd77 (origin/main) first commit
