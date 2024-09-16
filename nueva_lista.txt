@@ -1,0 +1,11 @@
+cuarto.txt
+empty_file.txt
+folder1
+folder1/vacio.txt
+folder1/contenido.txt
+folder1/abc.txt
+lista_find.txt
+primero.txt
+README.md
+segundo.txt
+tercero.txt
